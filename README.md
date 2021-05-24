@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 researching the network state(s) ...
-- 🦀 learning rust ...
-- 🌱 building web3 lego-blocks ...
+- 🔭 researching network-state..
+- 🦀 learning rust::
+- 🌱 building web3 lego-blocks{}
 
 
 <!--
