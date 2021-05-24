@@ -2,7 +2,7 @@
 
 - 🔭 researching network-state..
 - 🦀 learning rust::
-- 🌱 building web3 lego-blocks{}
+- 🌱 building web3-blocks{}
 
 
 <!--
