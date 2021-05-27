@@ -1,4 +1,4 @@
-### Hi there 👋
+### live long 🖖
 
 - 🔭 researching network-state..
 - 🦀 learning rust::
