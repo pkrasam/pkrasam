@@ -1,4 +1,4 @@
-### live long 🖖
+### live long 🖖 prosper
 
 - 🔭 researching network-state..
 - 🦀 learning rust::
