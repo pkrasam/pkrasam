@@ -1,8 +1,8 @@
 ### live long 🖖 prosper
 
-- 🔭 research network-state..
-- 🦀 learn rust::
-- 🌱 build web3-blocks{}
+- 🔭 research ..
+- 🦀 learn ::
+- 🌱 build {}
 
 
 <!--
